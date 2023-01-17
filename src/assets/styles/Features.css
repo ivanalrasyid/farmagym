@@ -1,0 +1,59 @@
+.wrapper-feature {
+  background: #f2e7f9;
+  height: 110vh;
+}
+
+.feature {
+  width: 150%;
+  height: 130vh;
+  margin-left: -130px;
+  margin-top: -50px;
+}
+
+.features-1 {
+  background: #7a0bc0;
+  border-radius: 10px;
+  width: 80%;
+  height: 200px;
+}
+
+.feat-1 {
+  width: 300px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.features-2 {
+  background: #7a0bc0;
+  border-radius: 10px;
+  width: 80%;
+  height: 200px;
+}
+
+.feat-2 {
+  width: 300px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.features-3 {
+  background: #7a0bc0;
+  border-radius: 10px;
+  width: 80%;
+  height: 200px;
+}
+
+.feat-3 {
+  width: 300px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
